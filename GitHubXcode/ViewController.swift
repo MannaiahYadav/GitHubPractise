@@ -13,9 +13,7 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
         
-    print("Live Branch")
-    print("Dev Branch")
-      print("Iam from  dev2")
+    print("hellow world")
         
     }
 
