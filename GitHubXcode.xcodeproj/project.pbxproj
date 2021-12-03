@@ -14,6 +14,7 @@
 		E8BF6F352759FB120049B5CB /* GitHubXcode.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = E8BF6F332759FB120049B5CB /* GitHubXcode.xcdatamodeld */; };
 		E8BF6F372759FB150049B5CB /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E8BF6F362759FB150049B5CB /* Assets.xcassets */; };
 		E8BF6F3A2759FB150049B5CB /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E8BF6F382759FB150049B5CB /* LaunchScreen.storyboard */; };
+		E8BF6F51275A1B310049B5CB /* DevelopVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = E8BF6F50275A1B310049B5CB /* DevelopVC.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		E8BF6F362759FB150049B5CB /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		E8BF6F392759FB150049B5CB /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		E8BF6F3B2759FB150049B5CB /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		E8BF6F50275A1B310049B5CB /* DevelopVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DevelopVC.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +62,7 @@
 			children = (
 				E8BF6F2A2759FB120049B5CB /* AppDelegate.swift */,
 				E8BF6F2C2759FB120049B5CB /* SceneDelegate.swift */,
+				E8BF6F50275A1B310049B5CB /* DevelopVC.swift */,
 				E8BF6F2E2759FB120049B5CB /* ViewController.swift */,
 				E8BF6F302759FB120049B5CB /* Main.storyboard */,
 				E8BF6F362759FB150049B5CB /* Assets.xcassets */,
@@ -143,6 +146,7 @@
 				E8BF6F2F2759FB120049B5CB /* ViewController.swift in Sources */,
 				E8BF6F2B2759FB120049B5CB /* AppDelegate.swift in Sources */,
 				E8BF6F352759FB120049B5CB /* GitHubXcode.xcdatamodeld in Sources */,
+				E8BF6F51275A1B310049B5CB /* DevelopVC.swift in Sources */,
 				E8BF6F2D2759FB120049B5CB /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
