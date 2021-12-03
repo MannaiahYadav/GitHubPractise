@@ -15,8 +15,6 @@ class ViewController: UIViewController {
         
     print("hellow world")
         print("liveee1")
-        print("liveee1")
-        print("liveee1")
     }
 
 }
